@@ -149,7 +149,7 @@
             // FiftyFifty
             // 
             this.FiftyFifty.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.FiftyFifty.Image = global::Игра.Properties.Resources.fifty;
+            this.FiftyFifty.Image = global::Millioner.Properties.Resources.fifty;
             this.FiftyFifty.Location = new System.Drawing.Point(589, 11);
             this.FiftyFifty.Name = "FiftyFifty";
             this.FiftyFifty.Size = new System.Drawing.Size(64, 64);
@@ -161,7 +161,7 @@
             // CallFriend
             // 
             this.CallFriend.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.CallFriend.Image = global::Игра.Properties.Resources.call;
+            this.CallFriend.Image = global::Millioner.Properties.Resources.call;
             this.CallFriend.Location = new System.Drawing.Point(519, 11);
             this.CallFriend.Name = "CallFriend";
             this.CallFriend.Size = new System.Drawing.Size(64, 64);
